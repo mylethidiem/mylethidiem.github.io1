@@ -29,12 +29,12 @@ I'm a **Software Developer** transitioning into the world of **Data Science and 
 ### 🎯 Academic & Research Roadmap
 | Period | Goal | Key Actions |
 |--------|------|--------------|
-| **2025–2026** | Build strong foundations | Complete the **AI VIET NAM Program**, develop portfolio projects, and publish the **first research paper**. |
-| **2026–2027** | Join research communities | Participate in **AI research groups**, co-author international papers, and prepare for **IELTS** certification. |
-| **2027–2029** | Pursue Master’s degree (MSc) | Focus on **AI/Data Science** specialization and gain experience as a **teaching assistant** if possible. |
-| **2029–2032+** | Pursue PhD & academic career | Publish **research papers**, mentor students, and teach courses related to **Machine Learning / Data / AI for Good**. |
+| **2025–2026** | Build strong foundations | Complete the **AI VIET NAM Program**, develop portfolio projects, and strengthen research fundamentals. |
+| **2026–2027** | Join research communities | Participate in **AI research groups**, collaborate with peers, and prepare for **IELTS** certification. |
+| **2027–2029** | Pursue Master’s degree (MSc) | Focus on **AI/Data Science**, engage in applied research, and gain experience in mentoring or teaching. |
+| **2029–2032+** | Pursue PhD & academic career | Advance knowledge in **AI for social good**, contribute to education, mentor students, and develop projects that create positive real-world impact. |
 
-> 🧠 *Goal: Build a lifelong journey that connects research, education, and applied AI for social good.*
+> 🧠 *Goal: Build a lifelong journey that connects learning, research, and education to make AI meaningful and accessible for everyone.*
 
 ---
 
